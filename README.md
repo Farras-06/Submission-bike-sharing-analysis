@@ -19,7 +19,7 @@
 # 📊 Dashboard with Streamlit
 
 ## Streamlit Cloud
-View the dashboard on streamlit could directly on this link: [GitHub Pages](https://pages.github.com/)
+View the dashboard on streamlit could directly on this link: [My Dashboard](https://bikesharing-analysis-adnawan.streamlit.app/)
 
 Dasboard menunjukkan jumlah total pengguna sepanjang tahun dan musim. Hal ini juga menunjukkan perbedaan penggunaan layanan bikesharing antara pengguna casual dan pengguna registered, berdasarkan hari dalam seminggu.
 
