@@ -148,7 +148,7 @@ max_date = df["dateday"].max()
 
 with st.sidebar:
     st.image(
-        "https://github.com/Farras-06/Submission-bike-sharing/blob/main/Dashboard/bicycle.png?raw=true"
+        "https://github.com/Farras-06/Submission-bike-sharing-analysis/blob/main/Image/bicycle.png?raw=true"
     )
 
     start_date, end_date = st.date_input(
